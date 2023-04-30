@@ -1,0 +1,15 @@
+C:\Users\lidav\repos\mis-221-pa-5-dpjefferson1\obj\Debug\net7.0\mis-221-pa-5-dpjefferson1.csproj.AssemblyReference.cache
+C:\Users\lidav\repos\mis-221-pa-5-dpjefferson1\obj\Debug\net7.0\mis-221-pa-5-dpjefferson1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lidav\repos\mis-221-pa-5-dpjefferson1\obj\Debug\net7.0\mis-221-pa-5-dpjefferson1.AssemblyInfoInputs.cache
+C:\Users\lidav\repos\mis-221-pa-5-dpjefferson1\obj\Debug\net7.0\mis-221-pa-5-dpjefferson1.AssemblyInfo.cs
+C:\Users\lidav\repos\mis-221-pa-5-dpjefferson1\obj\Debug\net7.0\mis-221-pa-5-dpjefferson1.csproj.CoreCompileInputs.cache
+C:\Users\lidav\repos\mis-221-pa-5-dpjefferson1\bin\Debug\net7.0\mis-221-pa-5-dpjefferson1.exe
+C:\Users\lidav\repos\mis-221-pa-5-dpjefferson1\bin\Debug\net7.0\mis-221-pa-5-dpjefferson1.deps.json
+C:\Users\lidav\repos\mis-221-pa-5-dpjefferson1\bin\Debug\net7.0\mis-221-pa-5-dpjefferson1.runtimeconfig.json
+C:\Users\lidav\repos\mis-221-pa-5-dpjefferson1\bin\Debug\net7.0\mis-221-pa-5-dpjefferson1.dll
+C:\Users\lidav\repos\mis-221-pa-5-dpjefferson1\bin\Debug\net7.0\mis-221-pa-5-dpjefferson1.pdb
+C:\Users\lidav\repos\mis-221-pa-5-dpjefferson1\obj\Debug\net7.0\mis-221-pa-5-dpjefferson1.dll
+C:\Users\lidav\repos\mis-221-pa-5-dpjefferson1\obj\Debug\net7.0\refint\mis-221-pa-5-dpjefferson1.dll
+C:\Users\lidav\repos\mis-221-pa-5-dpjefferson1\obj\Debug\net7.0\mis-221-pa-5-dpjefferson1.pdb
+C:\Users\lidav\repos\mis-221-pa-5-dpjefferson1\obj\Debug\net7.0\mis-221-pa-5-dpjefferson1.genruntimeconfig.cache
+C:\Users\lidav\repos\mis-221-pa-5-dpjefferson1\obj\Debug\net7.0\ref\mis-221-pa-5-dpjefferson1.dll
